@@ -12,5 +12,10 @@ h1{
     width:300px;
     padding:20px;
     border-radius:25px;
-    align:center;
+    position:absolute;
+	left:33%;
+	top:150px;
+}
+.fi-content{
+	display:hidden;
 }
